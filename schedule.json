@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:08:55.007718+09:00",
+  "updated_at": "2026-11-10T10:17:36.188143+09:00",
   "events": [
     {
       "id": "junior-news-1ae9152c1ac94eed",
@@ -19,6 +19,16 @@
       "member": "グループ",
       "status": "公式発表",
       "url": "https://jr-official.starto.jp/s/jr/news/detail/10842?ima=0854",
+      "memo": "お知らせの掲載日です。12:00は仮の確認時刻で、出演日時・発売時刻ではありません。"
+    },
+    {
+      "id": "junior-news-cdcb5ddd91af11cb",
+      "title": "【公式お知らせ】佐々木大光（KEY TO LIT）に関するご報告",
+      "date": "2026-11-06T12:00:00+09:00",
+      "type": "その他",
+      "member": "グループ",
+      "status": "公式発表",
+      "url": "https://jr-official.starto.jp/s/jr/news/detail/10842?ima=1735",
       "memo": "お知らせの掲載日です。12:00は仮の確認時刻で、出演日時・発売時刻ではありません。"
     },
     {
